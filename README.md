@@ -21,7 +21,7 @@ Atualmente, estou expandindo minhas habilidades em desenvolvimento, com foco em 
 📫 **Entre em contato:**
 * **E-mail:** [lucasismael03@gmail.com](mailto:lucasismael03@gmail.com)
 * **Telefone:** +55 83 996698962
-* **Portfolio UX/UI:** [https://uchoa-portfolio.framer.website/](https://uchoa-portfolio.framer.website/)
+* **Portfolio UX/UI:** [https://www.uxuchoaportifolio.online//](https://www.uxuchoaportifolio.online/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasuchoadg/)](https://www.linkedin.com/in/lucasuchoadg/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasismael03@gmail.com)](mailto:lucasismael03@gmail.com)
