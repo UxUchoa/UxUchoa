@@ -20,6 +20,6 @@ I leverage my background in creating amazing user journeys as a foundation to bu
 📫 **Let's connect!**
 * 📧 [lucasismael03@gmail.com](mailto:lucasismael03@gmail.com)
 * 📱 +55 (83) 99669-8962
-* 🌐 [UX/UI Portfolio](https://www.uxuchoaportifolio.online/)
+* 🌐 [UX/UI Portfolio](https://devuchoa.dev/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasuchoadg/)](https://www.linkedin.com/in/lucasuchoadg/)
