@@ -2,8 +2,6 @@
 
 **Software Developer 🚀 | Observability, Data & UX/UI Background**
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN1Znk4ZGxhMWEyczY4ZnF4NTFhb2E1ZG9hbDFwZDlkc3hhdWdmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="160" height="160" align="right">
-
 I'm currently working as a **Software Developer at Banco do Brasil**, focusing on observability, application monitoring, dashboards, APIs, endpoints, and data analysis.
 
 My background in UX/UI helps me connect **user experience, software development, and data**, building solutions that are not only technically efficient, but also clear and easy to understand.
