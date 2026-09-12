@@ -1,27 +1,20 @@
 ### Hey there! 👋 I'm Lucas Uchôa
 
-**Software Developer 🚀 | Observability, Data & UX/UI Background**
+**Software Developer 🚀 | Product, UX/UI, Data & Observability**
 
-I'm currently working as a **Software Developer at Banco do Brasil**, focusing on observability, application monitoring, dashboards, APIs, endpoints, and data analysis.
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN1Znk4ZGxhMWEyczY4ZnF4NTFhb2E1ZG9hbDFwZDlkc3hhdWdmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="160" height="160" align="right">
 
-My background in UX/UI helps me connect **user experience, software development, and data**, building solutions that are not only technically efficient, but also clear and easy to understand.
+I'm a multidisciplinary professional with a background in **Software Development, Product Design, and UX/UI**, now focused again on development, data, and observability.
 
-🛠️ **My Background:** UX/UI Design, Product Design, UX Research, Prototyping, Design Systems, Figma, and Adobe CC.
+I like working at the intersection of **code, product, user experience, and data**, building solutions that are both useful and technically solid.
 
-💻 **Current Focus:** Software Development, Observability, Data Analysis, Dashboards, APIs, and Artificial Intelligence.
-
-📚 **Tech Stack & Interests:**
-
-* **Development:** JavaScript, React, Node.js, Python, SQL, REST APIs, and Docker.
-* **Observability & Data:** Grafana, AppDynamics, Prometheus, Pandas, Data Visualization, API and Endpoint Monitoring.
-* **AI & LLMs:** Local LLMs, Ollama, LM Studio, Prompt Engineering, and AI Workflows.
+💻 **Development:** JavaScript, React, Node.js, Python, SQL, C#/.NET, REST APIs, Docker.
+📊 **Data & Observability:** Grafana, AppDynamics, Prometheus, Pandas, Data Visualization.
+🎨 **Product & UX/UI:** Figma, UX Research, Prototyping, Design Systems.
+🤖 **AI:** LLMs, Ollama, LM Studio, Prompt Engineering, AI Workflows.
 
 ---
 
 📫 **Let's connect!**
-
-* 📧 [lucasismael03@gmail.com](mailto:lucasismael03@gmail.com)
-* 📱 +55 (83) 99669-8962
-* 🌐 [Portfolio](https://devuchoa.dev/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/lucasuchoadg/)](https://www.linkedin.com/in/lucasuchoadg/)
+🌐 [devuchoa.dev](https://devuchoa.dev/)
+💼 [LinkedIn](https://www.linkedin.com/in/lucasuchoadg/)
